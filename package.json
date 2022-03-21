@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "description": "run a typescript script with esbuild",
     "bin": {
-        "nodebld": "ts-node-esbuild.js",
-        "ts-node-esbuild": "ts-node-esbuild.js"
+        "nodebld": "./ts-node-esbuild.js",
+        "ts-node-esbuild": "./ts-node-esbuild.js"
     },
     "repository": {
         "type": "git",
