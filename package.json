@@ -1,0 +1,25 @@
+{
+    "name": "ts-node-esbuild",
+    "version": "1.0.0",
+    "description": "run a typescript script with esbuild",
+    "bin": {
+        "nodebld": "ts-node-esbuild.js",
+        "ts-node-esbuild": "ts-node-esbuild.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/qpwo/ts-node-esbuild.git"
+    },
+    "author": "Luke Harold Miles",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/qpwo/ts-node-esbuild/issues"
+    },
+    "homepage": "https://github.com/qpwo/ts-node-esbuild#readme",
+    "dependencies": {
+        "esbuild": "^0.14.27"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.22"
+    }
+}
